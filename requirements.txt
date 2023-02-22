@@ -1,0 +1,9 @@
+streamlit==1.17.0
+hydralit==1.0.14
+hydralit-components==1.0.10
+bs4==0.0.1
+pandas==1.5.3
+pip==22.3.1
+plotly>=5.5.0
+openpyxl==3.0.9
+xlrd >= 1.0.0
