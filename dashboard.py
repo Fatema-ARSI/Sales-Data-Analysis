@@ -20,10 +20,6 @@ st.set_page_config(page_title="Sales Dashboard",
 ################# Data loading and storing #############@
 @st.cache(allow_output_mutation=True)
 
-def load_data(file):
-    data= pd.read_excel(file)
-    return data
-
 dataframe =pd.read_excel('https://raw.githubusercontent.com/Fatema-ARSI/Sales-Data-Analysis/main/sales.xlsx')
 
 ############## filter for the graph  ####################
