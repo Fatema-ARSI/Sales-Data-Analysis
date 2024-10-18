@@ -2,7 +2,7 @@ streamlit
 hydralit==1.0.14
 hydralit-components==1.0.10
 bs4==0.0.1
-pandas
+pandas==2.1.1
 pip
 plotly==5.24.1
 openpyxl==3.0.9
