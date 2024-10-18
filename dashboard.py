@@ -24,7 +24,7 @@ def load_data(file):
     data= pd.read_excel(file)
     return data
 
-dataframe =load_data('sales.xlsx')
+dataframe =pd.read_excel('https://raw.githubusercontent.com/Fatema-ARSI/Sales-Data-Analysis/main/sales.xlsx')
 
 ############## filter for the graph  ####################
 
