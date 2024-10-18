@@ -14,7 +14,7 @@ def read_multi_csv(months):
 
 months=list(calendar.month_name)[1:13]
 frames=read_multi_csv(months)
-sales_data = pd.concat(frames)
+df = pd.concat(frames)
 
 ############ Data cleaning and Manipulation
 
