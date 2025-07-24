@@ -1,7 +1,7 @@
-streamlit==1.17.0
-bs4==0.0.1
+streamlit
+bs4=
 pandas
-pip==22.3.1
+pip
 plotly
 openpyxl
 xlrd
